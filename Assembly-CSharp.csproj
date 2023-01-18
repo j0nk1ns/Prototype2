@@ -60,6 +60,7 @@
      <Compile Include="Assets\Challenge 2\Scripts\SpawnManagerX.cs" />
      <Compile Include="Assets\Scripts\DestoryOutOfBounds.cs" />
      <Compile Include="Assets\Scripts\DetetCollisions.cs" />
+     <Compile Include="Assets\Scripts\GameManger.cs" />
      <Compile Include="Assets\Scripts\MoveFoward.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\SpawnManger.cs" />
