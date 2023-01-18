@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour
     private float forwardInput;
 
     private float xRange = 25.0f;
-    private float zRange = 5.0f;
+    private float zRange = 20.0f;
 
     public float RotateSpeed = 3.0F;
 
