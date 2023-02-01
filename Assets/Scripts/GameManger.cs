@@ -6,12 +6,9 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
 
-    //** Declare a variable for the score value and set it to 0 **//
-    
-    // Declare a variable for the lives value and set it to 5 **//
-
-    
-    
+    private float score = 0f;
+    private float lives = 0f;
+   
     GameObject player;
    
     void Start()
